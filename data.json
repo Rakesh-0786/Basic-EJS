@@ -1,0 +1,51 @@
+{
+    "soccer": {
+        "name": "Soccer",
+        "subscribers": 800000,
+        "description": "The football subreddit. News, results, and discussion.",
+        "posts": [
+            {
+                "title": "Marten de Roon scoring a winning goal in the final minutes of the match",
+                "author": "FootballFanatic123"
+            },
+            {
+                "title": "Lionel Messi's incredible dribble through the opponent's defense",
+                "author": "SoccerGuru456"
+            }
+        ]
+    },
+    "chickens": {
+        "name": "Chickens",
+        "subscribers": 200000,
+        "description": "A subreddit for raising and caring for chickens.",
+        "posts": [
+            {
+                "title": "New chicken coop design ideas",
+                "author": "ChickenExpert123",
+                "img": "https://example.com/chicken-coop.jpg"
+            },
+            {
+                "title": "How to treat common chicken illnesses",
+                "author": "HenLover456",
+                "img": "https://example.com/chicken-illness.jpg"
+            }
+        ]
+    },
+    "mightyharvest": {
+        "name": "Mighty Harvest",
+        "subscribers": 100000,
+        "description": "A community for discussing gardening tips, tricks, and harvests.",
+        "posts": [
+            {
+                "title": "Tips for protecting your garden from pests",
+                "author": "GardenEnthusiast789",
+                "img": "https://example.com/garden-pests.jpg"
+            },
+            {
+                "title": "Share your recent harvest photos!",
+                "author": "HarvestLover101",
+                "img": "https://example.com/recent-harvest.jpg"
+            }
+        ]
+    }
+}
